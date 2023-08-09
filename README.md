@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact: **I dabble in Game Design**
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,discord,docker,eclipse,flask,git,github,html,idea,ai,java,js,linkedin,linux,mysql,ps,py,react,regex,vscode&perline=20" />
@@ -43,7 +43,7 @@
 </p>
 <img align="left" alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shehan-reshin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehan-reshin" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/asp_shehanreshin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asp_shehanreshin" height="30" width="40" /></a>
