@@ -41,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shehanreshin&show_icons=true" />
 </picture>
 </p>
-<img align="left" alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<img align="left" alt="Coding" width="100%" src="https://i.imgur.com/0yDjLPI.gif" />
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
