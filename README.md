@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanreshin&label=Profile%20views&color=0e75b6&style=flat" alt="shehanreshin" /> </p>
 
-- 🔭 I’m currently working on: **DigiForLooker 6.0**
+- 🔭 I’m currently working on: **DigiForLooker 6.0 & CineClash 2.0**
 
 - 🌱 I’m currently learning: **Java & Spring Boot**
 
@@ -14,16 +14,16 @@
 
 - 🤝 I’m looking for help in **learning about Web Dev and JavaScript**
 
-- 💬 Ask me about: **Python, Flask, Linux**
+- 💬 Ask me about: **Java, Linux, Docker, Python**
 
 - 📫 How to reach me: **asp.shehanreshin@gmail.com**
 
-- ⚡ Fun fact: **I dabble in Game Design**
+- ⚡ Fun fact: **I'm something of a melophile myself**
 
 # 💻 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,discord,docker,eclipse,flask,git,github,html,idea,ai,java,js,linkedin,linux,mysql,ps,py,react,regex,vscode&perline=20" />
+    <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,docker,eclipse,flask,git,github,html,idea,ai,java,js,linux,mysql,ps,py,regex,vscode&perline=20" />
   </a>
 </p>
 
