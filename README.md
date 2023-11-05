@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanreshin&label=Profile%20views&color=0e75b6&style=flat" alt="shehanreshin" /> </p>
 
-- 🔭 I’m currently working on: **DigiForLooker 6.0 & CineClash 2.0**
+- 🔭 I’m currently working on: **CineClash 2.0**
 
 - 🌱 I’m currently learning: **Java & Spring Boot**
 
