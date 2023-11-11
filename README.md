@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning: **Java & Spring Boot**
 
-- 👯 I’m looking to collaborate on: **Open Source Projects (Web Applications)**
+- 👯 I’m looking to collaborate on: **Open Source Projects**
 
 - 🤝 I’m looking for help in **learning about Web Dev and JavaScript**
 
