@@ -22,7 +22,7 @@
 # 💻 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,docker,eclipse,flask,git,github,html,idea,ai,java,js,linux,mysql,ps,py,regex,vscode&perline=20" />
+    <img src="https://skillicons.dev/icons?i=java,docker,spring,react,ts,hibernate,maven,idea,js,git,github,bootstrap,py,flask,mysql,linux,bash,vscode,postman,ps&perline=20" />
   </a>
 </p>
 
