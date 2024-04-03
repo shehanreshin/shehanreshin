@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanreshin&label=Profile%20views&color=0e75b6&style=flat" alt="shehanreshin" /> </p>
 
-- 🔭 I’m currently working on: **Something Confidential**
+- 🔭 I’m currently working on: **Incendies**
 
-- 🌱 I’m currently learning: **React & Golang**
+- 🌱 I’m currently learning: **Next.js & Nest.js**
 
 - 👯 I’m looking to collaborate on: **Open Source Projects**
 
@@ -22,7 +22,7 @@
 # 💻 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,docker,spring,react,ts,hibernate,maven,idea,js,git,github,bootstrap,py,flask,mysql,linux,bash,vscode,postman,ps&perline=20" />
+    <img src="https://skillicons.dev/icons?i=java,docker,spring,react,ts,hibernate,maven,idea,js,git,github,bootstrap,py,flask,express,mysql,linux,bash,vscode,postman&perline=20" />
   </a>
 </p>
 
