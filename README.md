@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanreshin&label=Profile%20views&color=0e75b6&style=flat" alt="shehanreshin" /> </p>
 
-- 🔭 I’m currently working on: **00CACTUS, Project Lawliet**
+- 🔭 I’m currently working on: **00CACTUS, Project Lawliet, Rustle**
 
 - 🌱 I’m currently learning: **Next.js, Nest.js, Solidity**
 
 - 👯 I’m looking to collaborate on: **Open Source Projects**
 
-- 🤝 I’m looking for help in **Blockchain Gas Optimization**
+- 🤝 I’m looking for help in **Solidity Gas Optimization**
 
 - 💬 Ask me about: **Java, Springboot, Docker, Digital Forensics**
 
@@ -22,7 +22,7 @@
 # 💻 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,docker,spring,react,ts,hibernate,maven,idea,js,git,github,bootstrap,py,flask,express,nestjs,mysql,linux,bash,postman&perline=20" />
+    <img src="https://skillicons.dev/icons?i=java,docker,spring,react,ts,hibernate,prisma,maven,idea,js,git,bootstrap,py,flask,express,nestjs,nodejs,mysql,linux,bash&perline=20" />
   </a>
 </p>
 
