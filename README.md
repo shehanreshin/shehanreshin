@@ -1,19 +1,19 @@
 <p align="Center" ><img src="https://github.com/shehanreshin/shehanreshin/assets/45056483/5d7c43a7-1914-48dd-a5f8-b24fd351c188"></p>
 
-<h1 align="left">Aspiring Quality Assurance Engineer <img align="center" alt="Coding" width="35" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"></h1>
+<h1 align="left">Backend Developer <img align="center" alt="Coding" width="35" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"></h1>
 <img align="right" alt="Coding" width="435" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanreshin&label=Profile%20views&color=0e75b6&style=flat" alt="shehanreshin" /> </p>
 
-- 🔭 I’m currently working on: **Incendies**
+- 🔭 I’m currently working on: **00CACTUS, Project Lawliet**
 
-- 🌱 I’m currently learning: **Next.js & Nest.js**
+- 🌱 I’m currently learning: **Next.js, Nest.js, Solidity**
 
 - 👯 I’m looking to collaborate on: **Open Source Projects**
 
-- 🤝 I’m looking for help in **Secure Coding Standards**
+- 🤝 I’m looking for help in **Blockchain Gas Optimization**
 
-- 💬 Ask me about: **Java, Spring, Docker, Digital Forensics**
+- 💬 Ask me about: **Java, Springboot, Docker, Digital Forensics**
 
 - 📫 How to reach me: **asp.shehanreshin@gmail.com**
 
@@ -22,7 +22,7 @@
 # 💻 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,docker,spring,react,ts,hibernate,maven,idea,js,git,github,bootstrap,py,flask,express,mysql,linux,bash,vscode,postman&perline=20" />
+    <img src="https://skillicons.dev/icons?i=java,docker,spring,react,ts,hibernate,maven,idea,js,git,github,bootstrap,py,flask,express,nestjs,mysql,linux,bash,postman&perline=20" />
   </a>
 </p>
 
