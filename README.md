@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanreshin&label=Profile%20views&color=0e75b6&style=flat" alt="shehanreshin" /> </p>
 
-- 🔭 I’m currently working on: **00CACTUS, Project Lawliet, Rustle**
+- 🔭 I’m currently working on: **00CACTUS, Project Lawliet, Enkidu, GrailBox**
 
 - 🌱 I’m currently learning: **Next.js, Nest.js, Solidity**
 
