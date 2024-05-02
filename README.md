@@ -25,9 +25,9 @@
 </p>
 
 <p>
-<img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehanreshin&show_icons=true&locale=en&layout=compact" alt="Shehan Reshin's Language Stats" />
-<img width="100%" align="left" src="https://github-readme-stats.vercel.app/api?username=shehanreshin&show_icons=true&theme=dark" />
-<img width="100%" align="left" src="https://streak-stats.demolab.com/?user=shehanreshin&theme=dark" />
+<img width="75%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehanreshin&show_icons=true&locale=en&layout=compact" alt="Shehan Reshin's Language Stats" />
+<img width="75%" align="left" src="https://github-readme-stats.vercel.app/api?username=shehanreshin&show_icons=true&theme=dark" />
+<img width="75%" align="left" src="https://streak-stats.demolab.com/?user=shehanreshin&theme=dark" />
 </p>
 <img align="left" alt="Coding" width="100%" src="https://i.imgur.com/0yDjLPI.gif" />
 <h3 align="left">Connect with me</h3>
