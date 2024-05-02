@@ -26,9 +26,20 @@
 
 <p>
 <img width="355" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehanreshin&show_icons=true&locale=en&layout=compact" alt="Shehan Reshin's Language Stats" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=shehanreshin&show_icons=true&theme=dark" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=shehanreshin&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=shehanreshin&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shehanreshin&show_icons=true" />
+</picture>
 </p>
 <img align="left" alt="Coding" width="100%" src="https://i.imgur.com/0yDjLPI.gif" />
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shehan-reshin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehan-reshin" height="30" width="40" /></a>
