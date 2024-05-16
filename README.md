@@ -1,4 +1,4 @@
-<p align="Center" ><img src="https://github.com/shehanreshin/shehanreshin/assets/45056483/5d7c43a7-1914-48dd-a5f8-b24fd351c188"></p>
+<p align="Center" ><img src="https://i.imgur.com/cQkrm2g.jpg"></p>
 
 <h1 align="left">Backend Developer <img align="center" alt="Coding" width="35" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"></h1>
 <img align="right" alt="Coding" width="435" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
