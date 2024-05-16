@@ -1,7 +1,7 @@
 <p align="Center" ><img src="https://i.imgur.com/cQkrm2g.jpg"></p>
 
 <h1 align="left">Backend Developer <img align="center" alt="Coding" width="35" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"></h1>
-<img align="right" alt="Coding" width="435" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
+<img align="right" alt="Coding" width="435" src="https://i.imgur.com/vSSfFmR.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanreshin&label=Profile%20views&color=0e75b6&style=flat" alt="shehanreshin" /> </p>
 
